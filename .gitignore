@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# JVM crash log
+hs_err_pid*.log
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+*.keystore
+*.jks

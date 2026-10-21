@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#1565C0</color>
+    <color name="seedVariant">#0D47A1</color>
+    <color name="primary">#1565C0</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#607D8B</color>
+    <color name="warningBg">#FFF3E0</color>
+</resources>
